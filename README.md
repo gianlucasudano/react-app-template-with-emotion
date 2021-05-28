@@ -20,7 +20,7 @@ In the folder where the repo is cloned
       To create a production bundle, use `npm run build` or `yarn build`.
 ```
 
-or fork in [Codesanbox](https://codesandbox.io/s/fuer7)
+or fork in [Codesanbox](https://codesandbox.io/s/single-page-app-template-s9zpi)
 
 ## Goals
 
